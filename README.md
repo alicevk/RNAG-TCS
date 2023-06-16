@@ -1,14 +1,16 @@
-<h2 align="center"> TÍTULO</h2>
-<h3 align="center"> Subtítulo </h3>
+<h2 align="center"> PREDIÇÕES CLIMÁTICAS: </h2>
+<h3 align="center"> O USO DE REDES NEURAIS PARA ANÁLISE DA INFLUÊNCIA DA TEMPERATURA NA SUPERFÍCIE MARÍTMA EM LOCAIS DE OCORRÊNCIA DO FENÔMENO 'EL NIÑO'. </h3>
 
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/alicevk/RNAG-TCS/assets/106678040/1325c1f4-b272-45d8-9c54-d7117bf7ff31" height="500"></p>
+<h5 align="center"> Figura 1. Análise dos locais de incidência do fenômeno El Niño de 1993 - 1998. [Fonte: Autoral] </h5>
 
-<h3 align='center'> <i> Você já pensou sobre como as redes neurais podem nos ajudar em XXXXX? </i> </h3>
+<h3 align='center'> <i> Você já se questionou se as redes neurais podem nos auxiliar na predição de dados climáticos? </i> </h3>
 
 
 ## Resumo
 <p align="justify">
-Descrever sobre o nosso problema temática XXXX. E onde que entra as redes neurais nisso? As redes neurais são algoritmos que se baseiam em um processamento de dados similar ao processamento de informações de um cérebro humano que ocorrem por meio de um conjunto extremamente complexo de células, os neurônios, responsáveis pela tomada de decisão do raciocínio e corpo humanos. Os neurônios são formados por dendritos – conjuntos de terminais de entrada, pelo corpo central, e pelos axônios – terminais de saídas. Ela será utilizada no nosso projeto como XXXX </p>
+Em condições normais no Oceano Pacífico, os ventos alísios - deslocamentos de massas de ar quente e úmido que se propagam em um ponto comum em direção às áreas de baixa pressão atmosférica da zona equatorial do globo terrestre; sopram para oeste ao longo do Equador, levando água quente da América do Sul para a Ásia. De modo a substituir essa água quente, ocorre um fenômeno oceanográfico denominado de ressurgência que consiste na subida de águas subsuperficiais, mais frias, muitas vezes ricas em nutrientes, para camadas superficiais no oceano, sendo um processo de suma relevância para a vida marinha e a pesca visto que a ressurgência promove a maior a quantidade de fitoplâncton e consequentemente uma a quantidade de zooplâncton, aumentando a quantidade de alimento para os peixes e a quantidade destes. Entretanto, quando essa situação típica não ocorre e há um aquecimento incomum das águas superficiais no leste do Oceano Pacífico, há a ocorrência do fenômeno climático 'El Niño', capaz de impactar as temperaturas oceânicas, na velocidade e força das correntes oceânicas, na saúde da pesca costeira e no clima local da Austrália à América do Sul e além. Os eventos do 'El Niño' ocorrem irregularmente em intervalos de dois a sete anos, não sendo um ciclo regular ou previsível no aspecto de marés oceânicas. .  </p>p
+E onde que entra as redes neurais nisso? As redes neurais são algoritmos capazes de aprender padrões e relações complexas a partir de conjuntos de dados históricos, o que as torna adequadas para lidar com a natureza multifacetada do El Niño. Estrututalmente, as redes se baseiam em um processamento de dados similar ao processamento de informações de um cérebro humano que ocorrem por meio de um conjunto extremamente complexo de células, os neurônios, responsáveis pela tomada de decisão do raciocínio e corpo humanos. Os neurônios são formados por dendritos – conjuntos de terminais de entrada, pelo corpo central, e pelos axônios – terminais de saídas. Ela será utilizada no nosso projeto para predizer a temperatura da superfície marítma, nos permitindo ver como os atributos climáticos podem afetar a temperatura do mar e consequentemente, provocar o efeito do 'El Niño'. </p>
 <p align="justify">
 Ficou curioso? Bora acompanhar o nosso repositório :ok_woman: </p>
 
