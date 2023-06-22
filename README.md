@@ -26,7 +26,7 @@ O presente projeto busca realizar previsões da temperatura da superfície marit
 
 <details><summary><h3><b> Como se guiar no nosso GitHub?</h3></b></summary>
 <p align="justify">
- É bem simples!  O código que demonstra o treinamento dos dados com redes neurais artificais pode ser observado em um arquivo de formato ipynb com o nome de "main.ipynb" e pode ser aberto pelo jupyter notebook, vscode, g. colab ou em seu ambiente de desenvolvimento preferido. Por sua vez, os dados utilizados estão em um arquivo .csv denominado de "el nino.csv" em uma pasta denominada de "dados". </p>
+ É bem simples!  O código que demonstra o treinamento dos dados com redes neurais artificais pode ser observado em um arquivo de formato ipynb com o nome de "main.ipynb" e pode ser aberto pelo jupyter notebook, vscode, g. colab ou em seu ambiente de desenvolvimento preferido. Por sua vez, os dados utilizados estão em um arquivo .csv denominado de "el nino.csv" em uma pasta denominada de "dados" e há também um notebook 'mapinha.csv' em que há o código do mapa utilizado na Figura 1 e algumas operações matemáticas que descrevem  o comportamento do dataset utilizado. </p>
 
 </details>
 
